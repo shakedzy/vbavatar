@@ -1,0 +1,11 @@
+beautifulsoup4
+einops
+numpy
+ollama
+pillow
+playwright
+pydantic
+timm
+torch
+tqdm
+transformers
