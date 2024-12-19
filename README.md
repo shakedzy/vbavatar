@@ -29,7 +29,7 @@ playwright install
 ```
 
 ## Running
-Runt he agent using the `vba` command:
+Run the agent using the `vba` command:
 ```
 usage: vba [-h] [-s SCROLLS] [-o OUTPUT_FILE] [--debug]
 
